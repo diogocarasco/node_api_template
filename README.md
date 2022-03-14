@@ -1,0 +1,2 @@
+# node_api
+A NODEJS API FOR GENERAL PURPOSES.
